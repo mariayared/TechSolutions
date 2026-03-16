@@ -1,0 +1,63 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+background-color: #f4f8fb;
+color: #222;
+max-width: 900px;
+margin: auto;
+padding: 20px;
+line-height: 1.6;
+}
+
+header{
+text-align: center;
+margin-bottom: 30px;
+}
+
+.logo{
+width: 200px;
+margin-bottom: 10px;
+}
+
+h1{
+color: #0b3d91;
+font-size: 38px;
+margin: 5px;
+}
+
+.slogan{
+color: #555;
+font-size: 18px;
+}
+
+h2{
+color: #1565c0;
+margin-top: 35px;
+border-bottom: 2px solid #ddd;
+padding-bottom: 5px;
+}
+
+h3{
+margin-top: 20px;
+color: #0b3d91;
+}
+
+ul{
+background: white;
+padding: 20px;
+border-radius: 8px;
+box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+li{
+margin-bottom: 8px;
+}
+
+a{
+color: #0d47a1;
+text-decoration: none;
+font-weight: bold;
+}
+
+a:hover{
+text-decoration: underline;
+}
